@@ -1,0 +1,70 @@
+[
+  {
+    "name": "user 1",
+    "transactions": [
+      {
+        "date": "2021-10-10",
+        "amount": 100
+      },
+      {
+        "date": "2021-11-11",
+        "amount": 100
+      },
+      {
+        "date": "2021-12-10",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "user 2",
+    "transactions": [
+      {
+        "date": "2021-10-10",
+        "amount": 200
+      },
+      {
+        "date": "2021-11-10",
+        "amount": 100
+      },
+      {
+        "date": "2021-12-10",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "name": "user 3",
+    "transactions": [
+      {
+        "date": "2021-12-11",
+        "amount": 51
+      },
+      {
+        "date": "2021-11-10",
+        "amount": 100
+      },
+      {
+        "date": "2021-10-12",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "name": "user 4",
+    "transactions": [
+      {
+        "date": "2021-12-11",
+        "amount": 50
+      },
+      {
+        "date": "2021-10-10",
+        "amount": 50
+      },
+      {
+        "date": "2021-10-11",
+        "amount": 20
+      }
+    ]
+  }
+]

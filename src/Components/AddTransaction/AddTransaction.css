@@ -1,0 +1,31 @@
+.add-transaction-popup {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    width: 350px;
+    max-width: 100%;
+    padding: 10px;
+}
+
+.add-transaction-popup input {
+    height: 35px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    padding-left: 5px;
+    border: 2px solid rgb(211, 211, 211);
+    border-radius: 3px;
+}
+
+.add-transaction-popup .submit-btn{
+    cursor: pointer;
+    font-size: 14px;
+    letter-spacing: 0.04em;
+    background: #ccc;
+    margin-left: 20px;
+    width: 25%;
+}
+
+.submit-btn:hover{
+    background:#ddd ;
+}

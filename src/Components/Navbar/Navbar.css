@@ -1,0 +1,33 @@
+.nav {
+    text-align: right;
+    display: flex;
+    justify-content: right;
+    height: 50px;
+    background-color: black;
+}
+
+.nav a {
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.nav a:hover {
+    text-decoration: underline;
+}
+
+.nav span {
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.nav span:hover {
+    text-decoration: underline;
+}
+
+.active {
+    /* text-decoration: underline !important; */
+    color: darkgray !important;
+    text-decoration: none;
+}
